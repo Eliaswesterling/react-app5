@@ -20,6 +20,7 @@ function App() {
         </a>
         <br/>
         <Counter />
+        <p>Heipä hei !!!! November</p>
       </header>
     </div>
   );
